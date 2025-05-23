@@ -1,7 +1,7 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
-## NAME: Hemanth Kumar R
-## REG NO: 212223040065
+## NAME: BEJIN
+## REG NO: 212222230021
 
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
